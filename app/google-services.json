@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120479970247",
+    "project_id": "myshoppingadmin-e1b15",
+    "storage_bucket": "myshoppingadmin-e1b15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120479970247:android:f95b0010ea48123f285fe2",
+        "android_client_info": {
+          "package_name": "com.example.myshopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2XIJFao5ewUqVOcZRykulLs0SFcvoGDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120479970247:android:49a3636d7de9be05285fe2",
+        "android_client_info": {
+          "package_name": "com.example.myshoppingadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2XIJFao5ewUqVOcZRykulLs0SFcvoGDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
